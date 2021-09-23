@@ -226,7 +226,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@nadunmalaka/Evil-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@nadunmalaka/WhatsEvil-QR-Code)
 
 | .mp4enhance| It improves the quality of the video.
 | .x2mp4| It reduces the quality of the video by 2 times.
