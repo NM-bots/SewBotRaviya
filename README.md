@@ -222,11 +222,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### 💜 Heroku ♐
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NM-bots/SewBotRaviya.git)
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@nadunmalaka/Evil-QR-Code)
 
 | .mp4enhance| It improves the quality of the video.
 | .x2mp4| It reduces the quality of the video by 2 times.
