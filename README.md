@@ -217,6 +217,17 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### XMedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️|
 | ---------- | -------------------- |
+  
+  ## 🚀𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩
+
+### 💜 Heroku ♐
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+
+Get pyrogram (p)  `SESSION` from here:
+
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
+
 | .mp4enhance| It improves the quality of the video.
 | .x2mp4| It reduces the quality of the video by 2 times.
 | .x4mp4| It reduces the quality of the video by 4 times.
